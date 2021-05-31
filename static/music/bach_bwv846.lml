@@ -1,0 +1,210 @@
+ts4/8
+# Hacks the editor so that 2 bars become 1.
+
+m0 {
+  dt c5.7 | r e5.7 | r2 g5 c6 e6 g5 c6 e6 
+}
+m1 {
+  dt c5.7 | r e5.7 | r2 g5 c6 e6 g5 c6 e6  
+}
+m2 {
+  dt c5.7 | r d5.7 | r2 a5 d6 f6 a5 d6 f6  
+}
+m3 {
+  dt c5.7 | r d5.7 | r2 a5 d6 f6 a5 d6 f6  
+}
+m4 {
+  dt b4.7 | r d5.7 | r2 g5 d6 f6 g5 d6 f6
+}
+m5 {
+  dt b4.7 | r d5.7 | r2 g5 d6 f6 g5 d6 f6
+}
+m6 {
+  dt c5.7 | r e5.7 | r2 g5 c6 e6 g5 c6 e6  
+}
+m7 {
+  dt c5.7 | r e5.7 | r2 g5 c6 e6 g5 c6 e6  
+}
+m8 {
+  dt c5.7 | r e5.7 | r2 a5 e6 a6 a5 e6 a6   
+}
+m9 {
+  dt c5.7 | r e5.7 | r2 a5 e6 a6 a5 e6 a6
+}
+m10 {
+  dt c5.7 | r d5.7 | r2 f+5 a5 d6 f+5 a5 d6 
+}
+m11 {
+  dt c5.7 | r d5.7 | r2 f+5 a5 d6 f+5 a5 d6 
+}
+m12 {
+  dt b4.7 | r d5.7 | r2 g5 d6 g6 g5 d6 g6
+}
+m13 {
+  dt b4.7 | r d5.7 | r2 g5 d6 g6 g5 d6 g6 
+}
+m14 {
+  dt b4.7 | r c5.7 | r2 e5 g5 c6 e5 g5 c6
+}
+m15 {
+  dt b4.7 | r c5.7 | r2 e5 g5 c6 e5 g5 c6
+}
+m16 {
+  dt a4.7 | r c5.7 | r2 e5 g5 c6 e5 g5 c6
+}
+m17 {
+  dt a4.7 | r c5.7 | r2 e5 g5 c6 e5 g5 c6
+}
+m18 {
+  dt d4.7 | r a4.7 | r2 d5 f+5 c6 d5 f+5 c6
+}
+m19 {
+  dt d4.7 | r a4.7 | r2 d5 f+5 c6 d5 f+5 c6
+}
+m20 {
+  dt g4.7 | r b4.7 | r2 d5 g5 b5 d5 g5 b5
+}
+m21 {
+  dt g4.7 | r b4.7 | r2 d5 g5 b5 d5 g5 b5
+}
+m22 {
+  dt g4.7 | r b-4.7 | r2 e5 g5 c+6 e5 g5 c+6
+}
+m23 {
+  dt g4.7 | r b-4.7 | r2 e5 g5 c+6 e5 g5 c+6
+}
+m24 {
+  dt f4.7 | r a4.7 | r2 d5 a5 d6 d5 a5 d6
+}
+m25 {
+  dt f4.7 | r a4.7 | r2 d5 a5 d6 d5 a5 d6
+}
+m26 {
+  dt f4.7 | r a-4.7 | r2 d5 f5 b5 d5 f5 b5
+}
+m27 {
+  dt f4.7 | r a-4.7 | r2 d5 f5 b5 d5 f5 b5
+}
+m28 {
+  dt e4.7 | r g4.7 | r2 c5 g5 c6 c5 g5 c6
+}
+m29 {
+  dt e4.7 | r g4.7 | r2 c5 g5 c6 c5 g5 c6
+}
+m30 {
+  dt e4.7 | r f4.7 | r2 a4 c5 f5 a4 c5 f5
+}
+m31 {
+  dt e4.7 | r f4.7 | r2 a4 c5 f5 a4 c5 f5
+}
+m32 {
+  dt d4.7 | r f4.7 | r2 a4 c5 f5 a4 c5 f5
+}
+m33 {
+  dt d4.7 | r f4.7 | r2 a4 c5 f5 a4 c5 f5
+}
+m34 {
+  dt g3.7 | r d4.7 | r2 g4 b4 f5 g4 b4 f5
+}
+m35 {
+  dt g3.7 | r d4.7 | r2 g4 b4 f5 g4 b4 f5
+}
+m36 {
+  dt c4.7 | r e4.7 | r2 g4 c5 e5 g4 c5 e5 
+}
+m37 {
+  dt c4.7 | r e4.7 | r2 g4 c5 e5 g4 c5 e5
+}
+m38 {
+  dt c4.7 | r g4.7 | r2 b-4 c5 e5 b-4 c5 e5
+}
+m39 {
+  dt c4.7 | r g4.7 | r2 b-4 c5 e5 b-4 c5 e5
+}
+m40 {
+  dt f3.7 | r f4.7 | r2 a4 c5 e5 a4 c5 e5
+}
+m41 {
+  dt f3.7 | r f4.7 | r2 a4 c5 e5 a4 c5 e5
+}
+m42 {
+  dt f+3.7 | r c4.7 | r2 a4 c5 e-5 a4 c5 e-5
+}
+m43 {
+  dt f+3.7 | r c4.7 | r2 a4 c5 e-5 a4 c5 e-5
+}
+m44 {
+  dt a-3.7 | r f4.7 | r2 b4 c5 d5 b4 c5 d5
+}
+m45 {
+  dt a-3.7 | r f4.7 | r2 b4 c5 d5 b4 c5 d5
+}
+m46 {
+  dt g3.7 | r f4.7 | r2 g4 b4 d5 g4 b4 d5 
+}
+m47 {
+  dt g3.7 | r f4.7 | r2 g4 b4 d5 g4 b4 d5 
+}
+m48 {
+  dt g3.7 | r e4.7 | r2 g4 c5 e5 g4 c5 e5
+}
+m49 {
+  dt g3.7 | r e4.7 | r2 g4 c5 e5 g4 c5 e5
+}
+m50 {
+  dt g3.7 | r d4.7 | r2 g4 c5 f5 g4 c5 f5
+}
+m51 {
+  dt g3.7 | r d4.7 | r2 g4 c5 f5 g4 c5 f5
+}
+m52 {
+  dt g3.7 | r d4.7 | r2 g4 b4 f5 g4 b4 f5
+}
+m53 {
+  dt g3.7 | r d4.7 | r2 g4 b4 f5 g4 b4 f5
+}
+m54 {
+  dt g3.7 | r e-4.7 | r2 a4 c5 f+5 a4 c5 f+5
+}
+m55 {
+  dt g3.7 | r e-4.7 | r2 a4 c5 f+5 a4 c5 f+5
+}
+m56 {
+  dt g3.7 | r e4.7 | r2 g4 c5 g5 g4 c5 g5
+}
+m57 {
+  dt g3.7 | r e4.7 | r2 g4 c5 g5 g4 c5 g5
+}
+m58 {
+  dt g3.7 | r d4.7 | r2 g4 c5 f5 g4 c5 f5
+}
+m59 {
+  dt g3.7 | r d4.7 | r2 g4 c5 f5 g4 c5 f5
+}
+m60 {
+  dt g3.7 | r d4.7 | r2 g4 b4 f5 g4 b4 f5
+}
+m61 {
+  dt g3.7 | r d4.7 | r2 g4 b4 f5 g4 b4 f5
+}
+m62 {
+  dt c3.7 | r c4.7 | r2 g4 b-4 e5 g4 b-4 e5
+}
+m63 {
+  dt c3.7 | r c4.7 | r2 g4 b-4 e5 g4 b-4 e5
+}
+m64 {
+  dt c3.15 | r c4.15 | r2 f4 a4 c5 f5 c5 a4 
+}
+m65 {
+  dt c5 a4 f4 a4 f4 d4 f4 d4
+}
+m66 {
+  dt c3.15 | r b3.15 | r2 g5 b5 d6 f6 d6 b5 
+}
+m67 {
+  dt d6 b5 g5 b5 d5 f5 e5 d5
+}
+m68 {
+  c3.8 | c4.8 | e5.8 | g5.8 | c6.8
+}
